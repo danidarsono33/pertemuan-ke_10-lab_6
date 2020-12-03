@@ -1,16 +1,22 @@
-TUGAS PERTEMUAN KE -10
+# TUGAS PERTEMUAN KE -10
+
 NAMA : DANI DARSONO
-NIM  : 312010148
+
+NIM  : 312010189
+
 Kelas : TI.20.B.1
+
 BAHASA PEMROGRAMAN 
 
 
-Latihan
+# Latihan
+
 Berikut adalah soal latihan praktikum 6:
-! GAMBAR 1
+![1](https://user-images.githubusercontent.com/73014427/100982054-31a34d00-357a-11eb-955f-7db1e1c9f412.png)
+
 
 Berikut adalah syntax yang saya gunakan:
-! GAMBAR 2
+![2](https://user-images.githubusercontent.com/73014427/100982068-3405a700-357a-11eb-82b7-10891172195a.png)
 Keterangan:
 
 >import digunakan untuk multi file maksudnya adalah kita dapat memanggil file lain di dalam satu module yang berbeda
@@ -46,11 +52,11 @@ Hapus data nilai mahasiswa
 
 Keterangan:
 
-Lalu seperti biasa kita gunakan def hapus agar ketika kita memilih pilihan menu hapus akan masuk ke dalam syntax ini untuk menghapus data
-Kita buat inputan nama karena kita akan menghapus data nilai mahasiswa tersebut dengan menggunakan nama mereka untuk menghapusnya
-lalu gunakan if untuk mengeksekusi data yang di dictionary menggunakan nama(True)
-Lalu del untuk menghapus semua data nilai mahasiswa tersebut
-Lalu kita buat else gunanya untuk ketika kita belum menginputkan data apapun maka tidak ada data yang bisa di hapus(False)
+> gunakan def hapus agar ketika kita memilih pilihan menu hapus akan masuk ke dalam syntax ini untuk menghapus data
+> buat inputan nama karena kita akan menghapus data nilai mahasiswa tersebut dengan menggunakan nama mereka untuk menghapusnya
+> lalu gunakan if untuk mengeksekusi data yang di dictionary menggunakan nama(True)
+> Lalu del untuk menghapus semua data nilai mahasiswa tersebut
+> Lalu kita buat else gunanya untuk ketika kita belum menginputkan data apapun maka tidak ada data yang bisa di hapus(False)
 Ubah data nilai mahasiswa
 
 ! GAMBAR UBAH

@@ -39,7 +39,8 @@ Berikut adalah tugas praktikum 6:
 
 > saya menggunakan dictionary
 
-! GAMBAR 5
+![5](https://user-images.githubusercontent.com/73014427/100982868-2a307380-357b-11eb-94b0-2b89dd1b3a0e.png)
+
 Keterangan:
 
 > Kalian bisa menggunakan list atau dictionary sesuai keinginan kalian sendiri tapi tentu saja list dan dictionary berbeda ya tapi kegunaanya sama

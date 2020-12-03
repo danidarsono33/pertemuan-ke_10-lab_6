@@ -50,7 +50,8 @@ Tambah data nilai mahasiswa
 Lalu kita buat inputan nama, nim, nilai tugas, nilai uts, dan nilai uas, lalu kita buat hasil / total dari keseluruhan nilai
 Hapus data nilai mahasiswa
 
-![6](https://user-images.githubusercontent.com/73014427/100982878-2b61a080-357b-11eb-88aa-a20b66c88909.png)
+![6](https://user-images.githubusercontent.com/73014427/100983581-189b9b80-357c-11eb-8e9e-c8b0202c8a9e.png)
+
 
 Keterangan:
 
@@ -61,7 +62,7 @@ Keterangan:
 > Lalu kita buat else gunanya untuk ketika kita belum menginputkan data apapun maka tidak ada data yang bisa di hapus(False)
 Ubah data nilai mahasiswa
 
-! GAMBAR UBAH
+![7](https://user-images.githubusercontent.com/73014427/100983585-19ccc880-357c-11eb-9d67-19b41dc4fa8f.png)
 
 Keterangan:
 
@@ -72,7 +73,8 @@ Lalu kita buat inputan untuk memasukkan nilai tugas, uts, dan uas yang terbaru
 Lalu kita gunakan hasil untuk menghitung total semua nilai tersebut
 Tampilkan data nilai mahasiswa
 
-! GAMBAR TAMPIL
+![8](https://user-images.githubusercontent.com/73014427/100983589-1a655f00-357c-11eb-8224-4f91b748f1c3.png)
+
 
 Keterangan:
 

@@ -85,23 +85,27 @@ Keterangan:
 > Lalu else disini di gunakan ketika kita belum menginputkan atau menambahkan data apapun akan muncul tidak ada data(False)
 Membuat pilihan menu
 
-! GAMBAR 10
+![9](https://user-images.githubusercontent.com/73014427/100983827-703a0700-357c-11eb-8239-1adf269f0e17.png)
+
 Keterangan:
 
-Kita gunakan perulangan while True untuk membuat pilihan menunya
-Karena tidak disuruh untuk menampilkan outputnya seperti apa jadi saya menggunakan nomor saja untuk membuat pilihan menunya alasannya agar terlihat lebih rapih dan mudah
-Lalu kita buat dibawahnya inputan untuk memasukkan pilihan yang kita inginkan
-Lalu kita gunakan if dan elif agar ketika kita memiih menu 1, 2, 3, 4, atau 5 kita akan memasuki syntax yang def tadi
-Lalu dibawahnya kita gunakan tambah, tampil, hapus, dan ubah untuk mengeksekusi syntax yang tadi, itulah kenapa kita menulisnya def tambah, def tampil, def hapus, dan def ubah
-lalu kita break kita gunakan untuk keluar dari program tersebut
-Lalu else digunakan agar ketika kita tidak memilih pilihan menu maka akan muncul tulisan "pilih menu yang tersedia diatas"
-Maka ini adalah hasil running dari syntax di atas:
+> gunakan perulangan while True untuk membuat pilihan menunya
+> kita buat dibawahnya inputan untuk memasukkan pilihan yang kita inginkan
+> kita gunakan if dan elif agar ketika kita memiih menu 1, 2, 3, 4, atau 5 kita akan memasuki syntax yang def tadi
+> Lalu dibawahnya kita gunakan tambah, tampil, hapus, dan ubah untuk mengeksekusi syntax yang tadi, itulah kenapa kita menulisnya def tambah, def tampil, def hapus, dan def ubah
+> lalu kita break kita gunakan untuk keluar dari program tersebut
+> Lalu else digunakan agar ketika kita tidak memilih pilihan menu maka akan muncul tulisan "pilih menu yang tersedia diatas"
+> Maka ini adalah hasil running dari syntax di atas:
+
+![10](https://user-images.githubusercontent.com/73014427/100983832-7203ca80-357c-11eb-9cb8-8406741cff93.png)
 
 Pilihan menu tambah, tampil, hapus, ubah, dan keluar dari program
-! GAMBAR 11
+
+![11](https://user-images.githubusercontent.com/73014427/100983833-729c6100-357c-11eb-8bbe-1cfa7c49ca6b.png)
 
 Jika anda memilih angka 1 , maka program akan meminta memasukan data pada anda .
-! GAMBAR 12
+
+![12](https://user-images.githubusercontent.com/73014427/100983835-7334f780-357c-11eb-83f6-5f32a7d6c275.png)
 
 Jika anda memilih angka 2 , maka program akan menampilkan data yang anda masukan 
 

@@ -109,16 +109,20 @@ Jika anda memilih angka 1 , maka program akan meminta memasukan data pada anda .
 
 Jika anda memilih angka 2 , maka program akan menampilkan data yang anda masukan 
 
-! gambar 13
+![13](https://user-images.githubusercontent.com/73014427/100984625-8c8a7380-357d-11eb-8536-de02a7429b45.png)
+
 
 Jika anda memilih angka 3 , maka program akan menghapus data yang anda masukan .
 
-! gambar 14
+![14](https://user-images.githubusercontent.com/73014427/100984629-8dbba080-357d-11eb-9f8a-68f57763549f.png)
 
 Jika anda memilih angka 4 , program akan meminta data baru 
 
-! gambar 15
+
+ ![15](https://user-images.githubusercontent.com/73014427/100984630-8dbba080-357d-11eb-9ba2-dda0425b1436.png)
+ 
 Jika anda memilih angka 5 , maka anda akan keluar dari program
 
-sekian penjelasan dari saya kurang lebihnya mohon maaf Wassalamualaikum wr.wb.
+
+# sekian penjelasan dari saya kurang lebihnya mohon maaf Wassalamualaikum wr.wb.
 # terima kasih .

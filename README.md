@@ -17,6 +17,7 @@ Berikut adalah soal latihan praktikum 6:
 
 Berikut adalah syntax yang saya gunakan:
 ![2](https://user-images.githubusercontent.com/73014427/100982068-3405a700-357a-11eb-82b7-10891172195a.png)
+
 Keterangan:
 
 >import digunakan untuk multi file maksudnya adalah kita dapat memanggil file lain di dalam satu module yang berbeda
@@ -28,15 +29,16 @@ Keterangan:
 > Lalu Join digunakan untuk menyatukan banyaknya string kedalam sebuah string
  ketika kita run hasilnya akan seperti berikut
 
-! GAMBAR 3
 
+![3](https://user-images.githubusercontent.com/73014427/100982630-e0e02400-357a-11eb-877f-52d2b59f3904.png)
 
 Tugas Praktikum 6
 Berikut adalah tugas praktikum 6:
 
-! GAMBAR 4
+![4](https://user-images.githubusercontent.com/73014427/100982634-e2115100-357a-11eb-8fc6-823df8dddfdd.png)
 
-Disini saya menggunakan dictionary
+> saya menggunakan dictionary
+
 ! GAMBAR 5
 Keterangan:
 

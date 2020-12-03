@@ -50,8 +50,7 @@ Tambah data nilai mahasiswa
 Lalu kita buat inputan nama, nim, nilai tugas, nilai uts, dan nilai uas, lalu kita buat hasil / total dari keseluruhan nilai
 Hapus data nilai mahasiswa
 
-!GAMBAR HAPUS
-
+![6](https://user-images.githubusercontent.com/73014427/100982878-2b61a080-357b-11eb-88aa-a20b66c88909.png)
 
 Keterangan:
 
